@@ -4,7 +4,7 @@
 <h3 align="center">Java Developer | Competitive Programmer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=namitjain73&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
@@ -42,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=namitjain73&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namitjain73&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitjain73&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -55,11 +55,11 @@
 ## 🧠 LeetCode Live Stats & Badge (Real-Time)
 
 ### 🏅 My LeetCode Profile
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-leetcode-username/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Namit_jain/)
 
 ### 📈 Live LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Namit_jain?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 > 🔥 This card updates automatically with your real-time LeetCode progress.
@@ -90,10 +90,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/namit-jain-5a19b6293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:namitjain9838@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
